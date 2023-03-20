@@ -8,7 +8,8 @@ description = "Bei Extremwetter handelt es sich um ein Wetterereignis, welches s
 +++
 <!--StartFragment-->
 
-Extremwetter steht mit den Lufttemperaturen in direkter Verbindung.                                                                      Bei höheren Temperaturen wird mehr Wasser aus Böden, Pflanzen und Wasserflächen verdunstet, das hat Dürreperioden zur Folge. Ausserdem kann warme Luft mehr Wasser speichern, unsere Luft enthält ca. 4% mehr Wasserdampf als vor etwa 40 Jahren, das wiederum steigert die Wahrscheinlichkeit für Extremniederschlag.  \
+Extremwetter steht mit den Lufttemperaturen in direkter Verbindung.                                                                      Bei höheren Temperaturen wird mehr Wasser aus Böden, Pflanzen und Wasserflächen verdunstet, das hat Dürreperioden zur Folge. Ausserdem kann warme Luft mehr Wasser speichern, unsere Luft enthält ca. 4% mehr Wasserdampf als vor etwa 40 Jahren, das wiederum steigert die Wahrscheinlichkeit für Extremniederschlag.  
+
 <!--EndFragment-->
 
 ![](https://www.welthungerhilfe.de/fileadmin/_processed_/c/0/csm_2019-extremwetter-unwetter-grafik-welthungerhilfe_e5f72971c3.png)
