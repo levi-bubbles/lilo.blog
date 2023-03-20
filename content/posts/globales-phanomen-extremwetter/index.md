@@ -12,7 +12,7 @@ Extremwetter steht mit den Lufttemperaturen in direkter Verbindung.            
 
 <!--EndFragment-->
 
-![](https://www.welthungerhilfe.de/fileadmin/_processed_/c/0/csm_2019-extremwetter-unwetter-grafik-welthungerhilfe_e5f72971c3.png "Weltweite Umweltereignisse zwischen 1980 und 2018(Welthungerhilfe.de) ")
+![](https://www.welthungerhilfe.de/fileadmin/_processed_/c/0/csm_2019-extremwetter-unwetter-grafik-welthungerhilfe_e5f72971c3.png)
 
 <!--StartFragment-->
 
