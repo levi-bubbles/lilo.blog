@@ -3,7 +3,7 @@ title = "Globales Phänomen: Extremwetter "
 date = "2023-03-20"
 draft = false
 pinned = false
-image = "https://static.spektrum.de/fm/912/sandyteas.jpg?width=2000&height=630&fit=crop&auto=webp"
+image = "https://static.spektrum.de/fm/912/sandy.jpg?width=2000&auto=webp"
 description = "Bei Extremwetter handelt es sich um ein Wetterereignis, welches stark vom lokalen Durchschnitt abweicht. So haben z.B. Dürreperioden, Hitzewellen, Stürme und Überschwemmungen in den letzten zehn Jahren stark zugenommen. Diese Wetterextreme haben einen direkten negativen Einfluss auf die Ernährungssicherheit vieler Menschen. "
 +++
 <!--StartFragment-->
