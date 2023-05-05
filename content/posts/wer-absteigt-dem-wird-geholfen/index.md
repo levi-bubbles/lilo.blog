@@ -3,6 +3,7 @@ title = "Wer absteigt, dem wird geholfen"
 date = "2023-05-05"
 draft = true
 pinned = false
+image = "microsoftteams-image-1-3-1-1-1-1-2-1-1-1-1-1-1-1-1-.png"
 description = "Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen und Köniz in den Loryplatz-Kreisel ein und fahren Richtung Innenstadt. Wer ein technisches Problem hat, steigt ein paar Meter weiter vom Sattel. Velo Krea heisst das Fahrradgeschäft im Mattenhof, das sich seit 2008 den Nöten der Pendlerinnen und Pendler annimmt."
 +++
 Ein Freitagnachmittag im März 2023. In der Werkstatt richtet der Lernende die Bremsen eines City-Bikes. Hinter ihm, an der Wand, sind alle Werkzeuge aufgereiht. In der Luft hängt der Geruch von Metall und Öl. Im Ladenraum nebenan steht Rolf Lussi. Er ist in ein Gespräch mit einer Kundin vertieft. „Ein Loch im Pneu? Bis wann brauchen Sie das Velo wieder? – Gut, bis Dienstagabend. Ich schicke eine SMS, sobald ich fertig bin. Auf Wiedersehen.“ Die Kundin verlässt den Laden, die Türe klingelt beim Rausgehen.
