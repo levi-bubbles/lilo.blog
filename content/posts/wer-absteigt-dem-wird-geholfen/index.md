@@ -1,7 +1,7 @@
 +++
 title = "Wer absteigt, dem wird geholfen"
 date = "2023-05-05"
-draft = true
+draft = false
 pinned = false
 image = "microsoftteams-image-1-3-1-1-1-1-2-1-1-1-1-1-1-1-1-.png"
 description = "Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen und Köniz in den Loryplatz-Kreisel ein und fahren Richtung Innenstadt. Wer ein technisches Problem hat, steigt ein paar Meter weiter vom Sattel. Velo Krea heisst das Fahrradgeschäft im Mattenhof, das sich seit 2008 den Nöten der Pendlerinnen und Pendler annimmt."
@@ -21,6 +21,12 @@ Wer unter „Google Maps“ nach Fahrradläden in der Stadt Bern sucht, erhält 
 
 Die Tür klingelt erneut. Es ist fünf Uhr. Herein kommt ein Mann im gleichen Alter wie Lussi, geschätzt etwas über 50 Jahre. Der Kunde zeigt ihm die kaputte Schaltung. Der Geschäftsinhaber hört gut zu und fragt nach, was genau geflickt werden soll. Er erfasst den Auftrag in einem Formular.
 Lussi – ein studierter Germanist – hat es als Kunde häufig erlebt, dass die Reparaturen nicht genau dem entsprachen, was er eigentlich wollte. „Das hat mich gestört. Ich versuche, wirklich auf die Wünsche meiner Kundschaft einzugehen.“ Das ist die Stärke seines Geschäfts, das er nach einer persönlichen Krise im Jahr 2008 gegründet hat: „Velo Krea ist ein Quartierladen. Die Leute kommen zu mir, weil sie mir vertrauen.“
+
+{{<box>}}
+
+> "Die Leute kommen zu mir, weil sie mir vertrauen."
+
+{{<box>}}
 Werbung braucht Lussi keine zu machen, die Mund-zu-Mund-Propaganda reicht. Bis vor Kurzem hatte er nur eine einfache Webseite, jetzt arbeitet Leandro Scherler, der Lernende, an einem etwas umfangreicheren Auftritt. Bei den Google-Bewertungen erreicht Velo Krea 4,7 Sterne. „Kompetent, freundlich, hilfsbereit! Kann ich sehr empfehlen“, so lautet ein typischer Kommentar.
 Scherler ist der einzige Angestellte von Velo Krea. Eine Zeit lang überlegte sich Lussi, das Geschäft zu vergrössern. „Dann habe ich gemerkt, dass ich dafür mehr Büroarbeit machen müsste und weniger selbst mechen könnte“, sagt Lussi. Die Lösung mit einem Lernenden ist ideal für ihn. „Ich finde den Kontakt zu jüngeren Leuten interessant. Gleichzeitig sind Lernende nicht so teuer wie voll ausgebildete Velomechaniker.“
 
