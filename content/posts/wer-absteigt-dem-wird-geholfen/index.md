@@ -4,7 +4,7 @@ date = "2023-05-05"
 draft = false
 pinned = false
 image = "microsoftteams-image-1-3-1-1-1-1-2-1-1-1-1-1-1-1-1-.png"
-description = "Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen und Köniz in den Loryplatz-Kreisel ein und fahren Richtung Innenstadt. Wer ein technisches Problem hat, steigt ein paar Meter weiter vom Sattel. Velo Krea heisst das Fahrradgeschäft im Mattenhof, das sich seit 2008 den Nöten der Pendlerinnen und Pendler annimmt."
+description = ""
 +++
 ##### Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen und Köniz in den Loryplatz-Kreisel ein und fahren Richtung Innenstadt. Wer ein technisches Problem hat, steigt ein paar Meter weiter vom Sattel. Velo Krea heisst das Fahrradgeschäft im Mattenhof, das sich seit 2008 den Nöten der Pendlerinnen und Pendler annimmt.
 
