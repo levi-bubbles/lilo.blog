@@ -1,7 +1,7 @@
 +++
 title = "Globales Phänomen: Extremwetter "
 date = "2023-03-20"
-draft = false
+draft = true
 pinned = false
 image = "sandy.webp"
 description = "Bei Extremwetter handelt es sich um ein Wetterereignis, welches stark vom lokalen Durchschnitt abweicht. So haben z.B. Dürreperioden, Hitzewellen, Stürme und Überschwemmungen in den letzten zehn Jahren stark zugenommen. Diese Wetterextreme haben einen direkten negativen Einfluss auf die Ernährungssicherheit vieler Menschen. "
