@@ -6,11 +6,7 @@ pinned = false
 image = "microsoftteams-image-1-3-1-1-1-1-2-1-1-1-1-1-1-1-1-.png"
 description = ""
 +++
-##### Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen und Köniz in den Loryplatz-Kreisel ein und fahren Richtung Innenstadt. Wer ein technisches Problem hat, steigt ein paar Meter weiter vom Sattel. Velo Krea heisst das Fahrradgeschäft im Mattenhof, das sich seit 2008 den Nöten der Pendlerinnen und Pendler annimmt.
-
-
-
-
+#### Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen und Köniz in den Loryplatz-Kreisel ein und fahren Richtung Innenstadt. Wer ein technisches Problem hat, steigt ein paar Meter weiter vom Sattel. Velo Krea heisst das Fahrradgeschäft im Mattenhof, das sich seit 2008 den Nöten der Pendlerinnen und Pendler annimmt.
 
 Ein Freitagnachmittag im März 2023. In der Werkstatt richtet der Lernende die Bremsen eines City-Bikes. Hinter ihm, an der Wand, sind alle Werkzeuge aufgereiht. In der Luft hängt der Geruch von Metall und Öl. Im Ladenraum nebenan steht Rolf Lussi. Er ist in ein Gespräch mit einer Kundin vertieft. „Ein Loch im Pneu? Bis wann brauchen Sie das Velo wieder? – Gut, bis Dienstagabend. Ich schicke eine SMS, sobald ich fertig bin. Auf Wiedersehen.“ Die Kundin verlässt den Laden, die Türe klingelt beim Rausgehen.
 Rolf Lussi ist der Inhaber des Fahrradgeschäfts „Velo Krea“ an der Effingerstrasse in Bern, ganz in der Nähe vom Loryplatz. Seine Kundinnen und Kunden sind Leute, die mit dem Fahrrad zur Arbeit pendeln. Die Lage des Geschäfts ist dafür ideal: Alle, die von Holligen und Köniz ins Stadtzentrum fahren wollen, kommen hier vorbei. Der Laden lebt von Service- und Reparaturarbeiten. Der Verkauf von neuen Fahrrädern spielt hingegen eine kleinere Rolle.
