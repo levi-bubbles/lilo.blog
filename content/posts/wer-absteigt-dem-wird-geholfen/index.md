@@ -10,6 +10,8 @@ description = "Täglich biegen mehrere hundert Fahrradfahrende aus Berns Westen 
 
 
 
+
+
 Ein Freitagnachmittag im März 2023. In der Werkstatt richtet der Lernende die Bremsen eines City-Bikes. Hinter ihm, an der Wand, sind alle Werkzeuge aufgereiht. In der Luft hängt der Geruch von Metall und Öl. Im Ladenraum nebenan steht Rolf Lussi. Er ist in ein Gespräch mit einer Kundin vertieft. „Ein Loch im Pneu? Bis wann brauchen Sie das Velo wieder? – Gut, bis Dienstagabend. Ich schicke eine SMS, sobald ich fertig bin. Auf Wiedersehen.“ Die Kundin verlässt den Laden, die Türe klingelt beim Rausgehen.
 Rolf Lussi ist der Inhaber des Fahrradgeschäfts „Velo Krea“ an der Effingerstrasse in Bern, ganz in der Nähe vom Loryplatz. Seine Kundinnen und Kunden sind Leute, die mit dem Fahrrad zur Arbeit pendeln. Die Lage des Geschäfts ist dafür ideal: Alle, die von Holligen und Köniz ins Stadtzentrum fahren wollen, kommen hier vorbei. Der Laden lebt von Service- und Reparaturarbeiten. Der Verkauf von neuen Fahrrädern spielt hingegen eine kleinere Rolle.
 
